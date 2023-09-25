@@ -1,0 +1,36 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header, .main, .footer {
+    padding: 20px 0;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.header, .footer {
+    background-color: #9c8619;;
+}
+
+.card-title {
+    text-transform: capitalize;
+}
+
+.card-text {
+    text-transform: capitalize;
+}
+
+.cart-btn {
+    color: whitesmoke;
+    text-transform: capitalize;
+    background-color: #005a9c;
+}
+
+.address-list {
+    margin-top: 60px;
+}
